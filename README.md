@@ -2,8 +2,6 @@
 
 ### 프론트 기술 스택
 
----
-
 **language**
 
 javascript
