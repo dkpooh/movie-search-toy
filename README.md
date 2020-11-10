@@ -3,22 +3,22 @@
 
 > ### 프론트 기술 스택
 
-  **language**
+   **language**
+ 
+    javascript
 
-  javascript
+    typescript
 
-  typescript
+   **library & framework**
 
-  **library & framework**
+    next.js
 
-  next.js
+    react.js
 
-  react.js
+    mobx
 
-  mobx
+   **ui / ux**
 
-  **ui / ux**
+    less
 
-  less
-
-  emotion
+    emotion
